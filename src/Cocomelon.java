@@ -3,3 +3,4 @@ public class Cocomelon {
         System.out.println("Coconut,melon");
     }}
 //avocado,papaya
+//pineapple
